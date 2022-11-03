@@ -2,7 +2,7 @@
 On this page you can create your own to-do-list. You can add tasks and sign them as done separatly with green button. If you want sign as done all at once  just click on "Ukończ wszystkie". You can remove tasks just with clicking on the red button with basket. If you want to hide your list with tasks, just click on "Ukryj wszystkie".
 This page is created as a part of Frontend Developer course in YouCode.
 ## Demo
-https://potanna2.github.io/homework_7/
+https://potanna2.github.io/todo-list-react/
 
 ![gifToHW1](https://user-images.githubusercontent.com/108223754/191559989-c477098a-77bf-4071-ab95-14fd6a6f5a17.gif)
 
