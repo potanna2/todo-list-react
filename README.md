@@ -15,6 +15,9 @@ https://potanna2.github.io/todo-list-react/
 HTML
 CSS
 BEM
+React
+WebPack
+Babel
 JavaScript
 
 ## Getting Started with Create React App
